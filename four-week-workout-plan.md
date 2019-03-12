@@ -1,13 +1,14 @@
 # Four Week Workout Plan
 
-Day One - Monday
-Day Two - Tuesday
-Day Three - Thurday
-Day Four - Friday
+Day One - Monday  
+Day Two - Tuesday  
+Day Three - Thurday  
+Day Four - Friday  
 
 ## Week One
 
-Do *Warmup A* on Day 1 and Day 3. Do *Warmup B* on Day 2 and Day 4
+Do **Warmup A** on Day One and Day Three.  
+Do **Warmup B** on Day Two and Day Four
 
 ### Warmup A
 
